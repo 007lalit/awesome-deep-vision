@@ -411,6 +411,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Software
 ### Framework
 * Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
+* Pytorch: PyTorch is a python package that provides two high-level features: Tensor computation (like numpy) with strong GPU acceleration and Deep Neural Networks built on a tape-based autograd system [[Web](http://pytorch.org/)]
 * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
   * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
 * Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
@@ -443,4 +444,4 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * [CVPR recap and where we're going@Zoya Bylinskii (MIT PhD Student)'s Blog](http://zoyathinks.blogspot.kr/2015/06/cvpr-recap-and-where-were-going.html)
 * [Facebook's AI Painting@Wired](http://www.wired.com/2015/06/facebook-googles-fake-brains-spawn-new-visual-reality/)
 * [Inceptionism: Going Deeper into Neural Networks@Google Research](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
-* [Implementing Neural networks](http://peterroelants.github.io/) 
+* [Implementing Neural networks](http://peterroelants.github.io/)
